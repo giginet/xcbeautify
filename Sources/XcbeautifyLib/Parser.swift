@@ -18,6 +18,7 @@ package final class Parser {
         CompileCommandCaptureGroup.self,
         CompileXibCaptureGroup.self,
         CompileStoryboardCaptureGroup.self,
+        CopyFilesCaptureGroup.self,
         CopyHeaderCaptureGroup.self,
         CopyPlistCaptureGroup.self,
         CopyStringsCaptureGroup.self,
